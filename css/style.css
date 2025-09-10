@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: antiquewhite;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.search{
+    container: 
+
+}
+ .links{
+    align-items: normal;
+    color: rgb(10, 92, 24);
+    margin: 20px;
+    display:flex;
+    justify-content: flex-end;
+    font-size: 25px;
+    font-weight: 650;
+    list-style: none;
+    gap: 25px;
+
+.logo{
+height: 35px;
+    }
+input{
+    justify-content:center ;
+    width: 30%;
+    padding: 10px;
+    font-size: 20px ;
+    height:35px;
+ }
+}
+ .banner-image{
+    width: 100%;
+    height: 500px;
+ }
+
