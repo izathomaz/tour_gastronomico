@@ -222,3 +222,28 @@ section {
     text-align: justify;
     font-size: 15px;
 }
+.infos{
+  h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 33px;
+    font-weight: 570;
+    color: #043a06;
+  }
+  .cad{
+    font-weight: 350;
+
+  }
+.confirmar{
+     display: flex;
+    margin: 25px;
+    height: 100px;
+    gap: 20px;
+    background-color: #FFBD52;
+    color: bisque;
+    width: 260px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    padding-block: 5px;
+}
+}
